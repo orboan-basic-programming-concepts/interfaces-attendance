@@ -1,3 +1,3 @@
 # interfaces-attendance
-## Interfaces example with Java
+## OOP: Interfaces example with Java
 #### IDE: IntelliJ
